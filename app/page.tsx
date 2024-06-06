@@ -8,6 +8,9 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">app/page.tsx</code>
         </p>
+        <p>
+          Insert answers to questions here
+        </p>
       </div>
     </main>
   );
