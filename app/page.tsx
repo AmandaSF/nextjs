@@ -109,5 +109,8 @@ export default function Home() {
         </a>
       </div>
     </main>
+    <p className="m-0 max-w-[30ch] text-balance text-sm">
+    Insert Text Here
+    </p>
   );
 }
