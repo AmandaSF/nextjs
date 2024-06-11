@@ -8,7 +8,9 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">app/page.tsx</code>
         </p>
-        <p>Ranked 5 most favourite and 5 least favourite support tasks.</p>
+        <p>Ranked 5 most favourite and 5 least favourite support tasks.
+          Favorites;
+        </p>
       </div>
     </main>
   );
