@@ -40,7 +40,6 @@ export default function Home() {
         <p>The customer from question 5 replies to your response with the below:</p>
         <p>{'“I\’m so frustrated. I\’ve been trying to make this work for hours and I just can\’t figure it out. It must be a platform issue so just fix it for me instead of asking me questions.”'}</p>
         <p>Please write a follow-up reply to the customer.</p>
-        <p></p>
         <p>Hello Friend,</p>
         <p>{'I understand that fixing issues like this can be frustrating, especially when it feels like we aren\’t making progress. However, we are eliminating potential causes of this issue as we go through this process. Thank you so much for being a partner, and working with me on this.'}</p>
         <p>['I do have more questions (and I know that\’s not what you want to hear), but I want us to get to a resolution on the issue we\’re seeing.'}</p>
