@@ -24,7 +24,8 @@ export default function Home() {
         <p>{'4)Create video tutorials to help teach users a specific feature or use case: Very much the same as 3-- I currently create probably 6-12 Looms a week, but it is just so much easier when it\'s directed at a specific person'}</p>
         <p>{'5)Dig through logs to troubleshoot a customer\'s broken project: I prefer to work a little more collaboratively, and while I absolutely will dive deep into customer logs or other setups to understand what\'s gone wrong, it\’s not my favorite thing'}</p>
         <p>What do you want to learn or do more of at work?</p>
-        <p>The work I\'m most passionate about is helping to develop the skills of the people I work with. I\'d like my role to include a lot of coaching, and to have enough autonomy to help build strong, resilient support teams. I do feel like I have a gap in knowledge about how Sales works, so working more closely with Sales would be a nice to have.</p>
+        <p>{'The work I\'m most passionate about is helping to develop the skills of the people I work with. I\'d like my role to include a lot of coaching, and to have enough autonomy to help build strong, resilient support teams. I do feel like I have a gap in knowledge about how Sales works, so working more closely with Sales would be a nice to have.'}</p>
+        <p>Describe how you solved a challenge or technical issue that you faced in a previous role (preferably in a previous support role). How did you determine that your solution was successful?</p>
       </div>
     </main>
   );
