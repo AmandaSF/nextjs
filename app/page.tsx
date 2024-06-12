@@ -63,6 +63,14 @@ export default function Home() {
         <p>Amanda</p>
         <br></br>
         <p>{'A customer writes in to the Helpdesk asking "How do I do a redirect from the \/blog path to https:\/\/example.com?" Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.'}</p>
+        <p>Hello Friend,</p>
+        <br></br>
+        <p>{'There are a couple of ways to do redirects at Vercel, but based on what you\’ve said so far, I think you\’re going to want to use our dynamic redirect (https:\/\/vercel.com\/docs\/edge-network\/redirects#dynamic-redirects). Our sample code should be a pretty easy match with what you want to do, but let me know if you need anything else!'}</p>
+        <br></br>
+        <p>Best,</p>
+        <p>Amanda</p>
+        <br></br>
+        <p></p>
       </div>
     </main>
   );
