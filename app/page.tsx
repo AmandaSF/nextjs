@@ -82,6 +82,10 @@ export default function Home() {
         <br></br>
         <p>What do you think is one of the most common problems which customers ask Vercel for help with? How would you help customers to overcome common problems, short-term and long-term?</p>
         <br></br>
+        <p>{'Well based on my conversation with Matthew, I know that the most common ticket reason is billing questions. I assume based on my time working in support, the second most common question is around error handing\/error messages. I think in both cases, the starting point is determining what can be prevented, or automated, and then the second step is determining what could be helped by education and tooltips. I\'m a strong believer in reducing toil and keeping support about new and emerging issues.'}</p>
+        <br></br>
+        <p>How could we improve or alter this familiarisation exercise?</p>
+        <p>I think more time could have been spent on working within the Vercel environment. I also think edge functions are probably one of the more powerful aspects of Vercel. I would have liked an excuse to dig in a lot deeper than the time and complexity of the question allotted me.</p>
       </div>
     </main>
   );
