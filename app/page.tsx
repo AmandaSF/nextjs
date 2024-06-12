@@ -75,6 +75,13 @@ export default function Home() {
         <br></br>
         <p>{'That’s absolutely something I can help you with! We actually have a nice write up here (https:\/\/vercel.com\/docs\/deployments\/preview-deployments#search-engine-indexing), about some of default behavior we do to keep test deployments from getting indexed and ruining SEO for you.'}</p>
         <br></br>
+        <p>{'However, if you want a more permanent solution, you can add “X-Robots-Tag: noindex“ as an HTTP header. If you want more specific rules, there are other X-Robots-Tag headers listed here (https:\/\/developers.google.com\/search\/docs\/crawling-indexing\/robots-meta-tag#xrobotstag).'}</p>
+        <br></br>
+        <p>Best,</p>
+        <p>Amanda</p>
+        <br></br>
+        <p>What do you think is one of the most common problems which customers ask Vercel for help with? How would you help customers to overcome common problems, short-term and long-term?</p>
+        <br></br>
       </div>
     </main>
   );
