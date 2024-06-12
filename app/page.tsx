@@ -18,15 +18,6 @@ export default function Home() {
         <p>3)Manage a support team: Having the luxury of dedicated time for managing a team is a dream. Having that chance to dig into goals, where people are spiking, what they're struggling with, and getting to think about how to level people is really rewarding</p>
         <p>4)Work with the product team to develop a new feature based on feedback from customers: Cross functional work tends to drive a product forward like nothing else. It can be hard to allocate time for it, but the reward when a desired feature launches is very high</p>
         <p>5)Help train and onboard new support teammates: This goes hand in hand with 3, but iterating and making sure your training stays relevant is an ongoing process that allwos you to see how much the product has matured. When you get to remove a training module because those problems have been solved, or bring in a new one due to new product launches-- it's fun!</p>
-        <p>Least Favorite</p>
-        <p>1)Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel: I've always preferred working with a wide variety of customers, and solving new problems. Dedicated support is key for relationship management, but it's not my cup of tea</p>
-        <p>2) Write and maintain support articles and docs pages: I have a much easier time writing responses for a specific person, so writing general documentation tends to be a little tricker for me. Generally, I have to create a Reader Persona to trick myself into thinking that creating documentation is just writing for a specific person.</p>
-        <p>3)Scheduling time-off coverage and collaborating as part of a growing cohesive support team: I got spoiled at a previous company where this was mostly automated, so doing this just makes me nostalgic</p>
-        <p>4)Create video tutorials to help teach users a specific feature or use case: Very much the same as 3-- I currently create probably 6-12 Looms a week, but it's just so much easier when it's directed at a specific person</p>
-        <p>5)Dig through logs to troubleshoot a customer's broken project: I prefer to work a little more collaboratively, and while I absolutely will dive deep into a customer's log or other setup to understand what's gone wrong, it's not my favorite thing</p>
-        <p>What do you want to learn or do more of at work?</p>
-        <p>The work I'm most passionate about is helping to develop the skills of the people I work with. I'd like my role to include a lot of coaching, and to have enough autonomy to help build strong, resilient support teams. I do feel like I have a gap in knowledge about how Sales works, so working more closely with Sales would be a nice to have.</p>
-        <p>Describe how you solved a challenge or technical issue that you faced in a previous role (preferably in a previous support role). How did you determine that your solution was successful?</p>
       </div>
     </main>
   );
