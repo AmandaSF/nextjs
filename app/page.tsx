@@ -47,7 +47,7 @@ export default function Home() {
         <p>(insert additional follow up questions here)</p>
         <p>Best,</p>
         <p>Amanda</p>
-        <p>A customer writes in to the Helpdesk asking "How do I do a redirect from the /blog path to https://example.com?" Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.</p>
+        <p>{'A customer writes in to the Helpdesk asking "How do I do a redirect from the \/blog path to https:\/\/example.com?" Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.'}</p>
       </div>
     </main>
   );
