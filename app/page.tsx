@@ -13,6 +13,8 @@ export default function Home() {
         <p>Ranked 5 most favourite and 5 least favourite support tasks.
         </p>
         <p>Favorites</p>
+        <p>1)Analyze hundreds of support tickets to spot trends the product team can use: I really enjoy finding trends, and determining solutions, what the lift is for changes, and faster/easier ways to get to a resolution</p>
+        <p>2)Run ticket review sessions to make sure tone is consistent: I think finding the balance between consistent tone and allowing agents to use their own personalities in responses allows for work to be a lot more enjoyable. Supporting those efforts is enjoyable to me, and crafting ideal responses or reworking responses is also a great place to create new macros</p>
       </div>
     </main>
   );
