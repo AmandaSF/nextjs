@@ -21,7 +21,6 @@ export default function Home() {
         <p>1)Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel: I have always preferred working with a wide variety of customers, and solving new problems. Dedicated support is key for relationship management, but it is not my cup of tea</p>
         <p>2) Write and maintain support articles and docs pages: I have a much easier time writing responses for a specific person, so writing general documentation tends to be a little tricker for me. Generally, I have to create a Reader Persona to trick myself into thinking that creating documentation is just writing for a specific person.</p>
         <p>{'3)Scheduling time-off coverage and collaborating as part of a growing cohesive support team: I got spoiled at a previous company where this was mostly automated, so doing this just makes me nostalgic'}</p>
-        <p>4)Create video tutorials to help teach users a specific feature or use case: Very much the same as 3-- I currently create probably 6-12 Looms a week, but it is just so much easier when it's directed at a specific person</p>
       </div>
     </main>
   );
