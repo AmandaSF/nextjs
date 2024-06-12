@@ -33,6 +33,8 @@ export default function Home() {
         <p>Edge Functions: for Middleware and other functions using the edge runtime</p>
         <p>Serverless Functions: handling API routes and server-side rendered pages</p>
         <p>Edge Middleware: Running redirects, rewrites, as a function to support A/B testing (or in the same vein, feature flags).</p>
+        <p>{'Imagine a customer writes in requesting help with a build issue on a framework or technology that you\'ve not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?'}</p>
+        <p>{'The first thing I’m going to do is get my bearings: I\’m going to see if the customer has written in before, and whether or not previous questions are related. I\’m going to see if the error they’re seeing has been seen before (search relevant documents or tickets for keywords, potentially search things like Stackoverflow as well), and determine if previous fixes will apply.'}</p>
       </div>
     </main>
   );
