@@ -22,7 +22,7 @@ export default function Home() {
         <p>2) Write and maintain support articles and docs pages: I have a much easier time writing responses for a specific person, so writing general documentation tends to be a little tricker for me. Generally, I have to create a Reader Persona to trick myself into thinking that creating documentation is just writing for a specific person.</p>
         <p>{'3)Scheduling time-off coverage and collaborating as part of a growing cohesive support team: I got spoiled at a previous company where this was mostly automated, so doing this just makes me nostalgic'}</p>
         <p>{'4)Create video tutorials to help teach users a specific feature or use case: Very much the same as 3-- I currently create probably 6-12 Looms a week, but it is just so much easier when it\'s directed at a specific person'}</p>
-        <p>5)Dig through logs to troubleshoot a customer\'s broken project: I prefer to work a little more collaboratively, and while I absolutely will dive deep into customer logs or other setups to understand what's gone wrong, it\’s not my favorite thing</p>
+        <p>{'5)Dig through logs to troubleshoot a customer\'s broken project: I prefer to work a little more collaboratively, and while I absolutely will dive deep into customer logs or other setups to understand what\'s gone wrong, it\’s not my favorite thing'}</p>
       </div>
     </main>
   );
