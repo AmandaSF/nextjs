@@ -70,7 +70,11 @@ export default function Home() {
         <p>Best,</p>
         <p>Amanda</p>
         <br></br>
-        <p></p>
+        <p>A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.</p>
+        <p>Hello Friend,</p>
+        <br></br>
+        <p>{'That’s absolutely something I can help you with! We actually have a nice write up here (https:\/\/vercel.com\/docs\/deployments\/preview-deployments#search-engine-indexing), about some of default behavior we do to keep test deployments from getting indexed and ruining SEO for you.'}</p>
+        <br></br>
       </div>
     </main>
   );
