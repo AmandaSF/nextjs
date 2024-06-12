@@ -29,6 +29,10 @@ export default function Home() {
         <p>{'For context, at Persona, the language around selecting the correct ID for verification is set per language, not per country. This can have impacts when multiple countries use the same language (like Spanish), but don\'t call their IDs the same thing. Recently, a customer reached out to let us know that they were seeing unhappy end users who were selecting the wrong IDs, or were confused by the names and reaching out to support, and they wanted the ability to change the title of the ID by country.'}</p>
         <p>{'That is not currently available, so after I put in a feature request to solve this, I talked to the customer about three different workarounds (updating the default language for their biggest market, updating the error page when an end user is asked to retry, and setting up custom screens prior to ID selection.'}</p>
         <p>{'I made sure to lay out how to accomplish these options, why I picked the three of them, and potential downsides. I also made sure to let them know that a feature request was underway. I felt confident that my workarounds would work because after we implemented the changes, I was able to use our analytics to show an increased conversion rate. We also spent a lot of time talking through the use case to make sure I was suggesting changes that would actually support the end users where they were.'}</p>
+        <p>When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?</p>
+        <p>Edge Functions: for Middleware and other functions using the edge runtime</p>
+        <p>Serverless Functions: handling API routes and server-side rendered pages</p>
+        <p>Edge Middleware: Running redirects, rewrites, as a function to support A/B testing (or in the same vein, feature flags).</p>
       </div>
     </main>
   );
